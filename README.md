@@ -116,13 +116,5 @@ Please follow PEP8
 
 📜 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 [ch v suresh babu]
 
-
-⚡ This is a **ready-to-paste README.md** with:  
-✔️ Badges  
-✔️ Emojis  
-✔️ Code blocks  
-✔️ Sections (Setup, Running, CI, Future work)  
-
-👉 Do you also want me to **write the GitHub Actions `ci.yml` file** so it run
